@@ -61,7 +61,7 @@ data-science-journey/
 
 ---
 
-## 📌 Learning Approach
+##  Learning Approach
 
 * Daily coding practice
 * Concept notes
